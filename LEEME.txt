@@ -1,0 +1,12 @@
+NUMBERS CARD BINDER
+1. Descomprime el ZIP.
+2. Sube TODOS los archivos y carpetas a la raíz de tu repositorio GitHub Pages.
+3. Activa GitHub Pages desde Settings > Pages > Deploy from a branch > main / root.
+4. Abre la URL HTTPS en Chrome Android > menú ⋮ > Instalar aplicación o Añadir a pantalla principal.
+5. El progreso se guarda en el navegador. Usa Exportar respaldo para conservarlo.
+
+IMPORTANTE SOBRE EL CATÁLOGO:
+La app incluye los 100 nombres originales y las 54 entradas adicionales de la lista anterior. Esa lista previa contiene nombres/variantes que todavía requieren verificación individual contra Konami; la app permite editar o eliminar entradas agregadas, pero no presenta la lista como catálogo oficial definitivo.
+
+
+ACTUALIZACIÓN: se corrigió el formulario Agregar carta. El progreso guardado utiliza la misma clave local y no se borra al actualizar estos archivos.
