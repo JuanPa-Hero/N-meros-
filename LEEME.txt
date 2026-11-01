@@ -1,0 +1,15 @@
+NUMBERS CARD BINDER - VERSION CORREGIDA
+
+CAMBIOS:
+- La casilla para escribir el nombre de cualquier carta queda visible en la pantalla.
+- El botón “Agregar carta” agrega la carta escrita; también funciona al pulsar Enter.
+- La nueva carta queda guardada automáticamente en este dispositivo.
+- Se mantiene la clave local numbersBinder_v1 para conservar las marcas anteriores.
+- Se actualizó el manifiesto PWA, los iconos y la caché del service worker.
+
+PARA INSTALAR:
+1. Descomprime este ZIP.
+2. Sube y reemplaza TODOS los archivos del repositorio GitHub, incluyendo la carpeta assets.
+3. Espera a que GitHub Pages termine de publicar.
+4. En el celular, cierra la aplicación instalada y abre el enlace desde Chrome.
+5. Si el icono anterior continúa, elimina el acceso directo viejo y vuelve a instalar desde Chrome > menú ⋮ > Instalar aplicación / Añadir a pantalla principal.
